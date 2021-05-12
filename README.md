@@ -1,10 +1,34 @@
-# Responsive Candy Shop Website
+# Candy Shop Responsive Website
  
-A website that prioritizes mobile design, created from scratch.
+### Udemy the Web Developer Bootcamp project.
+
+> Udemy project, which includes extensive bootstrap applications. Different sections of the bootstrap are used for the layout of the page and the movements of the parts. Media query is included for different resolution behaviors.
 
 
-Please click on the link below to view it;
+From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
 
-https://pirci.github.io/museum-of-candy/
 
-![homepage](https://user-images.githubusercontent.com/43238947/115959611-4f635580-a50d-11eb-9617-880645541c48.png)
+## Live Demo
+
+Preview:  https://pirci.github.io/museum-of-candy/
+
+![museum-of-candy](https://gph.is/g/460pqvd)
+
+
+## What I Learned:
+
+- Page layout provided with bootstrap
+- Learned using Jquery library
+- JavaScript used for toggle navbar
+- Multiple types of CSS selectors
+
+
+
+## Possible Improvements
+
+- More code reviews can be added for teamwork
+- Could make the page layout more pleasing to the eye
+- Formatting could be improved when viewing on certain devices/browsers
+
+
+
