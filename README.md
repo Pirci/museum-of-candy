@@ -12,7 +12,7 @@ From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-deve
 
 Preview:  https://pirci.github.io/museum-of-candy/
 
-![museum-of-candy](https://media.giphy.com/media/7OOIbkrqPZ6NaiFL2m/giphy.gif)
+![museum-of-candy](demo.gif)
 
 
 ## What I Learned:
