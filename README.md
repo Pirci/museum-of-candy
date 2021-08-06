@@ -1,12 +1,6 @@
 # Candy Shop Responsive Website
- 
-### Udemy the Web Developer Bootcamp project.
 
 > Udemy project, which includes extensive bootstrap applications. Different sections of the bootstrap are used for the layout of the page and the movements of the parts. Media query is included for different resolution behaviors.
-
-
-From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
-
 
 ## Live Demo
 
